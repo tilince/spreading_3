@@ -1,1 +1,57 @@
-{"id":3,"name":"test workspace","collection_group":[{"key":12345,"name":12345,"values":["d82c171c"]}],"collections":[{"id":"d82c171c","name":"Default collection","toc":[{"name":"Untitled0","type":"file","uri":"docs/untitled0.2208e814.mdx","attributes":{"create_time":1689430989752,"update_time":1689430989752}},{"name":"Untitled1","type":"file","uri":"docs/untitled1.b991ca87.mdx","attributes":{"create_time":1689431116091,"update_time":1689431116091}},{"name":"Untitled2","type":"file","uri":"docs/untitled2.5d841413.mdx","attributes":{"create_time":1689431120684,"update_time":1689431120684}},{"name":"Untitled3","type":"file","uri":"docs/untitled3.0da4d444.mdx","attributes":{"create_time":1689431132166,"update_time":1689431132166}}]}]}
+{
+    "id": 3,
+    "name": "test workspace",
+    "collection_group": [
+        {
+            "key": "12345",
+            "name": "12345",
+            "values": [
+                "d82c171c"
+            ]
+        }
+    ],
+    "collections": [
+        {
+            "id": "d82c171c",
+            "name": "Default collection",
+            "toc": [
+                {
+                    "name": "Untitled0",
+                    "type": "file",
+                    "uri": "docs/untitled0.2208e814.mdx",
+                    "attributes": {
+                        "create_time": 1689430989752,
+                        "update_time": 1689430989752
+                    }
+                },
+                {
+                    "name": "Untitled1",
+                    "type": "file",
+                    "uri": "docs/untitled1.b991ca87.mdx",
+                    "attributes": {
+                        "create_time": 1689431116091,
+                        "update_time": 1689431116091
+                    }
+                },
+                {
+                    "name": "Untitled2",
+                    "type": "file",
+                    "uri": "docs/untitled2.5d841413.mdx",
+                    "attributes": {
+                        "create_time": 1689431120684,
+                        "update_time": 1689431120684
+                    }
+                },
+                {
+                    "name": "Untitled3",
+                    "type": "file",
+                    "uri": "docs/untitled3.0da4d444.mdx",
+                    "attributes": {
+                        "create_time": 1689431132166,
+                        "update_time": 1689431132166
+                    }
+                }
+            ]
+        }
+    ]
+}
