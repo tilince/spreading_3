@@ -1,1 +1,11 @@
-[{"id":4,"name":"test project77's site","projects":[15],"domain":"test-project77.spreading.ai","icon":"4/zego_logo.png","title":"title","iconRedirectUrl":"Icon Redirect URL"}]
+[
+    {
+        "id": 4,
+        "name": "test project77's site",
+        "projects": [
+            15
+        ],
+        "domain": "test-project77.spreading.ai",
+        "title": "title"
+    }
+]
