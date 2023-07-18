@@ -1,10 +1,1 @@
-[
-    {
-        "id": 4,
-        "name": "test project7's site",
-        "projects": [
-            15
-        ],
-        "domain": "test-project77.spreading.ai"
-    }
-]
+[{"id":4,"name":"test project77's site","projects":[15],"domain":"test-project77.spreading.ai"}]
