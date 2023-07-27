@@ -1,1 +1,15 @@
-[{"id":4,"name":"test project77's site","projects":[{"id":15,"name":"test project7"}],"domain":"test-project77.spreading.io","title":"title","icon_redirect_url":"iconRedirectUrl"}]
+[
+    {
+        "id": 4,
+        "name": "test project77's site",
+        "projects": [
+            {
+                "id": 15,
+                "name": "test project7"
+            }
+        ],
+        "domain": "test-project77.spreading.io",
+        "title": "title",
+        "icon_redirect_url": "iconRedirectUrl"
+    }
+]

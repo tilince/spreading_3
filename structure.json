@@ -1,1 +1,37 @@
-{"id":3,"name":"test workspace","collection_group":[{"key":"12345","name":"12345","values":["d82c171c"]}],"collections":[{"id":"d82c171c","name":"Default collection","toc":[{"name":"private-file5","toc":[]},{"name":"private-file2","toc":[]},{"name":"Untitled32","toc":[]},{"name":"private-file22","toc":[]}]}]}
+{
+    "id": 3,
+    "name": "test workspace",
+    "collection_group": [
+        {
+            "key": "12345",
+            "name": "12345",
+            "values": [
+                "d82c171c"
+            ]
+        }
+    ],
+    "collections": [
+        {
+            "id": "d82c171c",
+            "name": "Default collection",
+            "toc": [
+                {
+                    "name": "private-file5",
+                    "toc": []
+                },
+                {
+                    "name": "private-file2",
+                    "toc": []
+                },
+                {
+                    "name": "Untitled32",
+                    "toc": []
+                },
+                {
+                    "name": "private-file22",
+                    "toc": []
+                }
+            ]
+        }
+    ]
+}
