@@ -1,1 +1,1 @@
-{"id":3,"name":"test workspace","collection_group":[{"key":"12345","name":"12345","values":["d82c171c"]}],"collections":[{"id":"d82c171c","name":"Default collection","toc":[]}]}
+{"id":3,"name":"test workspace","collection_group":[{"key":"12345","name":"12345","values":["d82c171c"]}],"collections":[{"id":"d82c171c","name":"Default collection","toc":[{"id":"ccc8867a","name":"Untitled","type":"file","uri":"docs/45a52153.mdx","attributes":{"create_time":1690800623836,"update_time":1690800623836,"status":"Draft"}}]}]}
